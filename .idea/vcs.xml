@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Descriptive_Classifier" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Descriptive_Sentences_He" vcs="Git" />
   </component>
 </project>
